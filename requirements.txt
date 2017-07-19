@@ -1,0 +1,10 @@
+nltk==3.2.1
+goose_extractor==1.0.25
+pandas==0.18.1
+plotly==1.12.12
+textblob==0.12.0
+numpy==1.12.0
+scipy==0.18.1
+rpy2==2.8.4
+ipython==6.1.0
+goose==1.0.0
